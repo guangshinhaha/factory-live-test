@@ -15,3 +15,4 @@ A task is done only when the pre-push checks pass. Never use `--no-verify`.
 shinstack-mode: auto
 factory-concurrency: 2
 factory-sensitive: false
+factory-model.review: antigravity/gemini-4-hydrogen
