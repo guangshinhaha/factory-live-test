@@ -13,3 +13,5 @@ A task is done only when the pre-push checks pass. Never use `--no-verify`.
 
 ## shinstack
 shinstack-mode: auto
+factory-concurrency: 2
+factory-sensitive: false
